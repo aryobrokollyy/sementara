@@ -5,7 +5,7 @@
 Chat_id
 7676956607
 
-https://api.telegram.org/bot<token>/getUpdates
+https://api.telegram.org/bot(token)/getUpdates
 
 Example:
 https://api.telegram.org/bot8169366157:AAEwf7AsdpsrBlx2gHF-vLSBlRT2ZKu9V1M/getUpdates
